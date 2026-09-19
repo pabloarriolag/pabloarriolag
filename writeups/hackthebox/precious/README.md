@@ -1,4 +1,4 @@
-# Precious
+# 💻 Precious
 
 **Platform:** Hack The Box  
 **OS:** Linux  
