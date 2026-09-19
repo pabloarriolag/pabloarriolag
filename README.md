@@ -10,21 +10,21 @@ My main goal is to build practical experience, document what I learn and continu
 
 ## 🛡️ Areas of Interest
 
-Offensive Security
+- Offensive Security
 
-Penetration Testing
+- Penetration Testing
 
-Vulnerability Assessment
+- Vulnerability Assessment
 
-Web Application Security
+- Web Application Security
 
-Network Security
+- Network Security
 
-Linux & Windows Security
+- Linux & Windows Security
 
-Privilege Escalation
+- Privilege Escalation
 
-Security Automation with Python
+- Security Automation with Python
 
 ## 💻 Hack The Box
 
@@ -32,25 +32,19 @@ I use Hack The Box to practice penetration testing methodologies in realistic la
 
 My write-ups focus on understanding the complete attack path:
 
-Reconnaissance
+- Reconnaissance
 
-Enumeration
+- Enumeration
 
-Vulnerability identification
+- Vulnerability identification
 
-Initial access
+- Exploitation
 
-Exploitation
+- Privilege escalation
 
-Credential discovery
+- Post-exploitation
 
-Privilege escalation
-
-Post-exploitation
-
-Automation
-
-Lessons learned
+- Automation
 
 ### Featured Machines
 | Machine | OS | Difficulty | Main Topics |
@@ -61,27 +55,16 @@ Lessons learned
 | [**Validation**](./writeups/hackthebox/validation/) | Linux | Easy | Web, SQL Injection, Command Injection |
 | [**Knife**](./writeups/hackthebox/knife/) | Linux | Easy | Web, PHP, Privilege Escalation |
 | [**Nunchucks**](./writeups/hackthebox/nunchucks/) | Linux | Easy | Web, SSTI, Privilege Escalation |
-n
 
 
+## 🐍 Exploitation Scripts
 
-## 🐍 Security Tools & Automation
+I develop Python scripts to automate the exploitation process of vulnerable machines.
 
-I develop small Python scripts and security tools to automate repetitive tasks and improve my workflow during security labs.
+These scripts reproduce different attack paths identified during my lab exercises and help me better understand the vulnerabilities, exploitation techniques and privilege escalation methods involved.
 
-Areas
+[**→ View Exploitation Scripts**](./exploits/)
 
-Enumeration
-
-Exploitation
-
-Web security testing
-
-Privilege escalation
-
-Security automation
-
-→ View Security Tools
 
 ## 📚 Learning & Development
 
@@ -104,11 +87,12 @@ Python for Cybersecurity
 Security Methodologies
 
 ## 🧰 Technologies & Tools
-Operating Systems
+
+### Operating Systems
 
 Linux · Windows
 
-Languages & Scripting
+### Languages & Scripting
 
 Python · Bash · PowerShell
 
@@ -140,4 +124,3 @@ I regularly add new labs, write-ups, tools and research as I continue developing
 
 Learn → Practice → Break → Understand → Document → Improve
 
-<p align="center"> <i>Always learning. Always testing. Always improving.</i> </p>
